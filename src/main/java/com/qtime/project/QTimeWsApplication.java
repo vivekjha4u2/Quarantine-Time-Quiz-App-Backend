@@ -8,6 +8,7 @@ public class QTimeWsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QTimeWsApplication.class, args);
+		System.out.println("first commit");
 	}
 
 }
